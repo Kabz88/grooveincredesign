@@ -346,14 +346,14 @@
   }
 
 
-  #services .svc-img.i2{ order: 1; }
-  #services .svc-img.i3{ order: 2; }
-  #services .svc-card.i1{ order: 3; }
-  #services .svc-img.i8{ order: 4; }
-  #services .svc-card.i4{ order: 5; }
+  #services .svc-img.i2{ order: 2; }
+  #services .svc-img.i3{ order: 4; }
+  #services .svc-card.i1{ order: 1; }
+  #services .svc-img.i8{ order: 5; }
+  #services .svc-card.i4{ order: 3; }
   #services .svc-img.i5{ order: 6; }
-  #services .svc-img.i6{ order: 7; }
-  #services .svc-img.i7{ order: 8; }
+  #services .svc-img.i6{ order: 8; }
+  #services .svc-img.i7{ order: 7; }
 }
 
 @media (max-width: 420px){
